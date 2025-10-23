@@ -14,7 +14,7 @@ class ResultScreen extends StatelessWidget {
         child: SingleChildScrollView(
           child: SelectableText(
             ocrText.isEmpty ? 'Tidak ada teks ditemukan.' : ocrText,
-            style: const TextStyle(fontSize: 18),
+            style: const TextStyle(fontSize: 17),
           ),
         ),
       ),
