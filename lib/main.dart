@@ -3,7 +3,7 @@ import 'screens/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
-}F
+}
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
